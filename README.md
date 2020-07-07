@@ -1,5 +1,5 @@
 # Balance-Tree
-# Fall, 2019, File Processing
+- Fall, 2019, File Processing
 BS Tree : Insert, Delete
 
 AVL Tree : Insert

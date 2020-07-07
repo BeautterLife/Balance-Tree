@@ -1,2 +1,4 @@
 # Balance-Tree
-BST, AVL, BTRee
+BS Tree : Insert, Delete
+AVL Tree : Insert
+B-Tree : Insert, Delete
